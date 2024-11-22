@@ -1,11 +1,11 @@
 <h1 align="center">Ola, eu sou o Matheus.</h1>
 <h3 align="center">Entusiasta e estudante na area de desenvolvimento em web, e com bastante interesse em expandir meus conhecimentos para outras areas.</h3>
 
-- 🔭 I’m currently working on **Html, Css e Git**
+- 🔭 Atualmente trabalhando com: **Html, Css e Git**
 
-- 🌱 I’m currently learning **Html,Css e Git**
+- 🌱 Estou estudando: **Html,Css e Git**
 
-- 📫 How to reach me **dogehkinn@gmail.com**
+- 📫 Como entrar em contato: **dogehkinn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
